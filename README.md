@@ -77,4 +77,3 @@ To trigger the script upon an account lockout event, follow these steps:
 
 ## License
 This project is licensed under the GNU General Public License (GPL). See the LICENSE file for details.
-"""
