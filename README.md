@@ -48,7 +48,7 @@ To trigger the script upon an account lockout event, follow these steps:
    - Set **Action** to **Start a program**.
    - In **Program/script**, enter the PowerShell path:
      ```
-     %windir%\\System32\\WindowsPowerShell\\v1.0\\powershell.exe
+     %windir%\System32\WindowsPowerShell\v1.0\powershell.exe
      ```
    - In **Add arguments (optional)**, enter:
      ```
