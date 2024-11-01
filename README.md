@@ -71,11 +71,10 @@ To trigger the script upon an account lockout event, follow these steps:
 ### 3. Test the Setup
 - Lock a test account to ensure the script triggers and a webhook notification is sent successfully.
 
-## License
-This project is licensed under the GNU General Public License (GPL). See the LICENSE file for details.
-"""
-
 ## Usage Notes
 - **DC Deployment**: Ensure this task is configured on all Domain Controllers to capture all account lockout events across the domain.
 - **Webhook URL**: Update the webhook URL in the script to integrate with your alerting platform (e.g., Teams, Slack).
 
+## License
+This project is licensed under the GNU General Public License (GPL). See the LICENSE file for details.
+"""
